@@ -2,7 +2,7 @@
   "latest": "v1.0.0",
   "min_php": "7.4",
   "zip_name": "pan-v1.0.0.zip",
-  "zip_url": "",
-  "sha256": "",
+  "zip_url": "https://github.com/Aze0920/pan-updater/releases/download/v1.0.0/pan-v1.0.0.zip",
+  "sha256": "d6f527927a8eed7e700afbee4ffed1b14b0c19449eef9604b0c1d13811d56515",
   "notes": "首次发布"
 }
